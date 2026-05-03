@@ -6,8 +6,8 @@ This project is called **Smart Customer Support Email Management System**. Its g
 
 The current technical solution is:
 
-- frontend deployed on `Vercel`
-- backend workflow engine implemented with `Node-RED`
+- frontend deployed on `Vercel` https://smart-email-topaz.vercel.app/
+- backend workflow engine implemented with `Node-RED` http://zhangsu1305.australiaeast.azurecontainer.io:1880/#flow/f6f2187d.f17ca8
 - AI classification and analysis powered by `OpenAI`
 - email notification service provided by `Resend`
 - persistent data storage handled by `Azure SQL Database`

@@ -6,8 +6,8 @@
 
 当前项目采用如下技术方案：
 
-- 前端页面部署在 `Vercel`
-- 后端流程引擎使用 `Node-RED`
+- 前端页面部署在 `Vercel` https://smart-email-topaz.vercel.app/
+- 后端流程引擎使用 `Node-RED` http://zhangsu1305.australiaeast.azurecontainer.io:1880/#flow/f6f2187d.f17ca8
 - AI 分类与分析接口使用 `OpenAI`
 - 邮件通知服务使用 `Resend`
 - 数据持久化使用 `Azure SQL Database`
